@@ -1,7 +1,0 @@
-Hello World !!!
-<<<<<<< HEAD
-
-ooo
-=======
-hello
-
