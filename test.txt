@@ -1,7 +1,2 @@
 World
 hello
-<<<<<<< Updated upstream
-!!!
-=======
-ooo
->>>>>>> Stashed changes
